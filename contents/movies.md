@@ -58,3 +58,4 @@ Below is a list of movies that I recommend. Use CTRL+F to get around. All movies
 |How to Train Your Dragon Collection|Adventure, Animation, Family|
 |Spirited Away|Adventure, Anime, Family|
 |Soul|Adventure, Animation, Comedy, Family|
+|The Mitchells vs. the Machines|Animation, Adventure, Comedy, Family, Science Fiction|
