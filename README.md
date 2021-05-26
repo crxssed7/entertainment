@@ -1,8 +1,6 @@
 😀 Entertainment
 =====================
 
-You've stumbled on a secret part of my repo 😶
-
 - [📺 TV shows](contents/tv-shows.md)
 - [🎥 Movies](contents/movies.md)
 - [📚 Books](contents/books.md)
