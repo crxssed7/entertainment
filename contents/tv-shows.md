@@ -44,4 +44,4 @@ Below is a list of TV Shows that I recommend. Use CTRL+F to get around. All show
 |[The Goldbergs](https://trakt.tv/shows/the-goldbergs-2013)|ABC|Comedy|
 |[Hot Ones](https://trakt.tv/shows/hot-ones)|YouTube|Food, Game Show, Talk Show|
 |[The Falcon and the Winter Soldier](https://trakt.tv/shows/the-falcon-and-the-winter-soldier)|Disney+|Action, Adventure, Drama, Mini-Series|
-|[Spider-Man: The Animated Series](https://trakt.tv/shows/spider-man-the-animated-series)|FOX|
+|[Spider-Man: The Animated Series](https://trakt.tv/shows/spider-man-the-animated-series)|FOX|Animation, Action, Adventure|
