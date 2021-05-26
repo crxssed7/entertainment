@@ -59,3 +59,4 @@ Below is a list of movies that I recommend. Use CTRL+F to get around. All movies
 |Spirited Away|Adventure, Anime, Family|
 |Soul|Adventure, Animation, Comedy, Family|
 |The Mitchells vs. the Machines|Animation, Adventure, Comedy, Family, Science Fiction|
+|Raya and the Last Dragon|Animation, Adventure, Fantasy, Family, Action|
