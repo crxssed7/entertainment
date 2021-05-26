@@ -1,6 +1,8 @@
 😀 Entertainment
 =====================
 
+This repo includes:
+
 - [📺 TV shows](contents/tv-shows.md)
 - [🎥 Movies](contents/movies.md)
 - [📚 Books](contents/books.md)
