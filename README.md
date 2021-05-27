@@ -11,24 +11,24 @@ This repo includes:
 Below is software that you can find to enhance your entertainment experience. Items marked as 👑 are recommended by me.
 
 ## 🖲 Trackers
-**TV shows and movies**
+###### TV shows and movies
 
 - [TelePeeps](https://kitric.github.io/projects/telepeeps/): Best tracker of course (not because it was developed by me 😂). In all seriousness though, this was just a hobby project for me and lacks a few features (such as cross device sync and no offline usage) so it probably isn't the best solution for you - however it does have a really nice UI with randomization features so if you're exclusively a Windows user, you can go ahead and try it 😄
 - [TV Time](https://www.tvtime.com): Good tracker, mainly available on android, and has a webapp. Plus has a social media aspect to it with reviews and comments on each movie/show from different users.
 - [Trakt.tv](https://trakt.tv): 👑 Very good tracker, best used when integrated with your media players such as Plex (premium) and Jellyfin (free). Trakt also has alot of third party (free and paid) clients, personally I use [Showly](https://github.com/michaldrabik/showly-2.0) which is open source right here on GitHub. Check out my Trakt profile [here](https://trakt.tv/users/crxssed)
 - [MyAnimeList](https://myanimelist.net): From what I heard, a very good Anime tracker. I don't watch anime, so I can't judge 🤷‍♂️
 
-**Comics**
+###### Comics
 - [Comic Tracker](https://github.com/crxssed7/comics-cli): A CLI application I developed that allows you to add comics to your collection, and mark certain issues as read.
 - [League of Comic Geeks](https://leagueofcomicgeeks.com/): 👑 A comic tracker for both desktop (website) and mobile. The website is very nice and clean looking (pity it isn't a webapp), however the mobile app can be a bit laggy and glitchy, and in some cases hard to use. The website alone makes it a very recommended service, though.
 - [MyAnimeList](https://myanimelist.net): Listed in [TV shows and movies](https://github.com/crxssed7/entertainment#-trackers), but I'm also going to list it here as it has the ability to track manga too.
 
-**Books**
+###### Books
 - [Bookshelf](https://www.bookshelfapp.info): 👑 Exclusively for mobile unfortunately, however it has a really clean interface, very easy to use, and all book metadata is editable (author, cover, etc).
 - [GoodReads](https://www.goodreads.com): The most popular book tracker, I've not used it enough to judge it accurately.
 
 ## ▶ Media players and servers
-**Servers**
+###### Servers
 
 - [Jellyfin](https://jellyfin.org): 👑 Server software that allows you to have all of your downloaded media (inc tv shows, movies, books, comics) available in one place, anywhere you go.
 - [Plex](https://www.plex.tv/en-gb/): Very similar to Jellyfin, however its all managed by central servers owned by Plex Inc, which I'm not a fan of. Also Jellyfin has more customizability, but Plex is more stable. 
@@ -36,7 +36,7 @@ Below is software that you can find to enhance your entertainment experience. It
 - [Emby](https://emby.media/): Similar to Plex and Jellyfin, however I've never used it personally.
 - [Komga](https://komga.org/): 👑 Like Ubooquity, but just for comics. It can read epub files, but cannot read the contents, just the images - one way around it is just to convert all your epub files to pdf.
 
-**Players**
+###### Players
 
 - [Jellyfin Apps](https://jellyfin.org/clients/): 👑 Jellyfin provides a range of free software to play your media.
 - [Plex Apps](https://www.plex.tv/en-gb/media-server-downloads/#plex-app): Same as Jellyfin, but many of them are not free.
