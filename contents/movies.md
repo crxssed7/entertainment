@@ -5,58 +5,34 @@ Below is a list of movies that I recommend. Use CTRL+F to get around. All movies
 
 |Name|Genres|
 |---|---|
-|Ready Player One|Science Fiction, Adventure, Action|
-|The Imitation Game|History, Drama, Thriller, War|
-|Venom|Science Fiction, Action|
-|Star Wars Collection (minus sequels)|Adventure, Action, Science Fiction|
-|Iron Man|Action, Science Fiction, Adventure|
-|Iron Man 2|Action, Science Fiction, Adventure|
-|Iron Man 3|Action, Science Fiction, Adventure|
-|Thor|Adventure, Fantasy, Action|
-|Thor: The Dark World|Adventure, Fantasy, Action|
-|Thor: Ragnarok|Adventure, Fantasy, Action|
-|Captain America: The First Avenger|Action, Adventure, Science Fiction|
-|Captain America: The Winter Soldier|Action, Adventure, Science Fiction|
-|Captain America: Civil War|Action, Adventure, Science Fiction|
-|Guardians of the Galaxy|Action, Adventure, Science Fiction|
-|Guardians of the Galaxy: Vol 2|Action, Adventure, Science Fiction|
-|Ant-Man|Action, Adventure, Science Fiction|
-|Ant-Man and the Wasp|Action, Adventure, Science Fiction|
-|Doctor Strange|Action, Adventure, Fantasy, Science Fiction|
-|Spider-Man: Homecoming|Action, Adventure, Science Fiction, Drama|
-|Spider-Man: Far From Home|Action, Adventure, Science Fiction|
-|Spider-Man|Fantasy, Action|
-|Spider-Man 2|Action, Adventure, Fantasy|
-|Spider-Man 3|Fantasy, Action, Adventure|
-|Spider-Man: Into the Spiderverse|Action, Adventure, Animation, Science Fiction, Comedy|
-|Black Panther|Action, Adventure, Fantasy, Science Fiction|
-|The Avengers|Science Fiction, Action, Adventure|
-|Avengers: Age of Ultron|Action, Adventure, Science Fiction|
-|Avengers: Infinity War|Adventure, Action, Science Fiction|
-|Avengers: Endgame|Adventure, Science Fiction, Action|
-|The Transformers: The Movie|Animation, Science Fiction, Action, Adventure, Family|
-|Regular Show: The Movie|Animation, Comedy, Science Fiction, TV Movie|
-|Wreck-it Ralph|Family, Animation, Comedy, Adventure|
-|Ralph Breaks the Internet|Family, Animation, Comedy, Adventure|
-|Joker|Crime, Thriller, Drama|
-|Sonic the Hedgehog|Action, Science Fiction, Comedy, Family|
-|Transformers|Adventure, Science Fiction, Action|
-|Transformers: Revenge of the Fallen|Science Fiction, Action, Adventure|
-|Transformers: Dark of the Moon|Action, Science Fiction, Adventure|
-|Bumblebee|Action, Adventure, Science Fiction|
-|1917|War, Drama, Action, Thriller|
-|Kingsman: The Secret Service|Crime, Comedy, Action, Adventure|
-|Kingsman: The Golden Circle|Action, Adventure, Comedy, Crime, Thriller|
-|Indiana Jones Collection|Adventure, Action|
-|The Inbetweeners Movie|Comedy|
-|The Inbetweeners 2|Comedy|
-|Wonder|Drama, Family|
-|Onward|Animation, Fantasy|
-|Now You See Me|Crime, Thriller|
-|Now You See Me 2|Crime, Thriller|
-|The Iron Giant|Adventure, Animation, Family, Science Fiction|
-|How to Train Your Dragon Collection|Adventure, Animation, Family|
-|Spirited Away|Adventure, Anime, Family|
-|Soul|Adventure, Animation, Comedy, Family|
-|The Mitchells vs. the Machines|Animation, Adventure, Comedy, Family, Science Fiction|
-|Raya and the Last Dragon|Animation, Adventure, Fantasy, Family, Action|
+|[Ready Player One](https://trakt.tv/movies/ready-player-one-2018)|Science Fiction, Adventure, Action|
+|[The Imitation Game](https://trakt.tv/movies/the-imitation-game-2014)|History, Drama, Thriller, War|
+|[Venom](https://trakt.tv/movies/venom-2018)|Science Fiction, Action|
+|[Star Wars Collection (minus sequels)](https://trakt.tv/users/crxssed/lists/star-wars?sort=rank,asc)|Adventure, Action, Science Fiction|
+|[MCU Collection](https://trakt.tv/users/crxssed/lists/mcu?sort=released,desc)|Adventure, Action, Science Fiction|
+|[The Transformers: The Movie](https://trakt.tv/movies/the-transformers-the-movie-1986)|Animation, Science Fiction, Action, Adventure, Family|
+|[Regular Show: The Movie](https://trakt.tv/movies/regular-show-the-movie-2015)|Animation, Comedy, Science Fiction, TV Movie|
+|[Wreck-it Ralph](https://trakt.tv/movies/wreck-it-ralph-2012)|Family, Animation, Comedy, Adventure|
+|[Ralph Breaks the Internet](https://trakt.tv/movies/ralph-breaks-the-internet-2018)|Family, Animation, Comedy, Adventure|
+|[Joker](https://trakt.tv/movies/joker-2019)|Crime, Thriller, Drama|
+|[Sonic the Hedgehog](https://trakt.tv/movies/sonic-the-hedgehog-2020)|Action, Science Fiction, Comedy, Family|
+|[Transformers](https://trakt.tv/movies/transformers-2007)|Adventure, Science Fiction, Action|
+|[Transformers: Revenge of the Fallen](https://trakt.tv/movies/transformers-revenge-of-the-fallen-2009)|Science Fiction, Action, Adventure|
+|[Transformers: Dark of the Moon](https://trakt.tv/movies/transformers-dark-of-the-moon-2011)|Action, Science Fiction, Adventure|
+|[Bumblebee](https://trakt.tv/movies/bumblebee-2018)|Action, Adventure, Science Fiction|
+|[1917](https://trakt.tv/movies/1917-2019)|War, Drama, Action, Thriller|
+|[Kingsman: The Secret Service](https://trakt.tv/movies/kingsman-the-secret-service-2014)|Crime, Comedy, Action, Adventure|
+|[Kingsman: The Golden Circle](https://trakt.tv/movies/kingsman-the-golden-circle-2017)|Action, Adventure, Comedy, Crime, Thriller|
+|[Indiana Jones Collection](https://trakt.tv/users/crxssed/lists/indiana-jones?sort=released,desc)|Adventure, Action|
+|[The Inbetweeners Movie](https://trakt.tv/movies/the-inbetweeners-movie-2011)|Comedy|
+|[The Inbetweeners 2](https://trakt.tv/movies/the-inbetweeners-2-2014)|Comedy|
+|[Wonder](https://trakt.tv/movies/wonder-2017)|Drama, Family|
+|[Onward](https://trakt.tv/movies/onward-2020)|Animation, Fantasy|
+|[Now You See Me](https://trakt.tv/movies/now-you-see-me-2013)|Crime, Thriller|
+|[Now You See Me 2](https://trakt.tv/movies/now-you-see-me-2-2016)|Crime, Thriller|
+|[The Iron Giant](https://trakt.tv/movies/the-iron-giant-1999)|Adventure, Animation, Family, Science Fiction|
+|[How to Train Your Dragon Collection](https://trakt.tv/users/crxssed/lists/how-to-train-your-dragon?sort=released,desc)|Adventure, Animation, Family|
+|[Spirited Away](https://trakt.tv/movies/spirited-away-2001)|Adventure, Anime, Family|
+|[Soul](https://trakt.tv/movies/soul-2020)|Adventure, Animation, Comedy, Family|
+|[The Mitchells vs. the Machines](https://trakt.tv/movies/the-mitchells-vs-the-machines-2021)|Animation, Adventure, Comedy, Family, Science Fiction|
+|[Raya and the Last Dragon](https://trakt.tv/movies/raya-and-the-last-dragon-2021)|Animation, Adventure, Fantasy, Family, Action|
