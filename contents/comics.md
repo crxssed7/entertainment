@@ -27,3 +27,4 @@ Below is a list of comics that I recommend. Use CTRL+F to get around. All comics
 |The Amazing Spider-Man (2018)|Marvel|
 |Strange Tales (#110-#141 Doctor Strange Origins)|Marvel|
 |Venom: First Host|Marvel|
+|[Darth Vader (2015)](https://comicvine.gamespot.com/darth-vader/4050-79990/)|Marvel|
