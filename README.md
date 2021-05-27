@@ -1,7 +1,7 @@
 😀 Entertainment
 =====================
 
-This repo includes:
+This repo includes entertainment media that I enjoy watching/reading:
 
 - [📺 TV shows](contents/tv-shows.md)
 - [🎥 Movies](contents/movies.md)
