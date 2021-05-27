@@ -41,6 +41,7 @@ Below is software that you can find to enhance your entertainment experience. It
 - [Jellyfin Apps](https://jellyfin.org/clients/): 👑 Jellyfin provides a range of free software to play your media.
 - [Plex Apps](https://www.plex.tv/en-gb/media-server-downloads/#plex-app): Same as Jellyfin, but many of them are not free.
 - [Ubooquity Webapp](https://vaemendis.net/ubooquity/): Ubooquity has it's own webapp built in to the server software, same with Jellyfin and Plex.
+- [Komga Webapp](https://komga.org/): Follows the exact same concept as the Ubooquity Webapp.
 - [Kuboo](https://play.google.com/store/apps/details?id=com.sethchhim.kuboo&hl=en_GB&gl=US): 👑 Reader for Ubooquity, available for android.
 - [Calibre](https://calibre-ebook.com/): Meant to be a very good comic reader. Apparently has functionality to be both a player and a server. Personally I wasn't very fond of it.
 - [Tachiyomi](https://tachiyomi.org): 👑 Quite possibly the best comic reader I have ever come across. The app itself is nothing but a container for all the extensions that you can install that allow you to read comics from different sources. I use this for reading comics from my Komga server, and from online sources such as ReadComicOnline.to. There is a desktop version available called [Tachidesk](https://github.com/AriaMoradi/Tachidesk), however it is unofficial and a little bit buggy. Both official and unofficial versions are open source, you can see the code here on GitHub.
