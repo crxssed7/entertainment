@@ -45,3 +45,5 @@ Below is a list of TV Shows that I recommend. Use CTRL+F to get around. All show
 |[Hot Ones](https://trakt.tv/shows/hot-ones)|YouTube|Food, Game Show, Talk Show|
 |[The Falcon and the Winter Soldier](https://trakt.tv/shows/the-falcon-and-the-winter-soldier)|Disney+|Action, Adventure, Drama, Mini-Series|
 |[Spider-Man: The Animated Series](https://trakt.tv/shows/spider-man-the-animated-series)|FOX|Animation, Action, Adventure|
+|[Star Wars Rebels](https://trakt.tv/shows/star-wars-rebels)|Disney XD|Animation, Action, Adventure|
+|[Star Wars: The Bad Batch](https://trakt.tv/shows/the-bad-batch)|Disney+|Animation, Fantasy, Science Fiction, Action, Adventure|
