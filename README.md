@@ -51,4 +51,4 @@ Below is software that you can find to enhance your entertainment experience. It
 
 ## ✨ Recommend me something
 
-Want to recommend me something to watch/read? Go ahead and start a [discussion]() and I'll be sure to check it out!
+Want to recommend me something to watch/read? Go ahead and start a [discussion](https://github.com/crxssed7/entertainment/discussions/new?category=recommendation) and I'll be sure to check it out!
