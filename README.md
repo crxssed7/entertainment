@@ -49,3 +49,6 @@ Below is software that you can find to enhance your entertainment experience. It
 - [Tachiyomi](https://tachiyomi.org): 👑 Quite possibly the best comic reader I have ever come across. The app itself is nothing but a container for all the extensions that you can install that allow you to read comics from different sources. I use this for reading comics from my Komga server, and from online sources such as ReadComicOnline.to. There is a desktop version available called [Tachidesk](https://github.com/AriaMoradi/Tachidesk), however it is unofficial and a little bit buggy. Both official and unofficial versions are open source, you can see the code here on GitHub.
 - [ComicPeeps](https://kitric.github.io/projects/comicpeeps/): A comic reader that I developed that allows you to read comics and manage your library. Similar to TelePeeps, it's just a hobby project so you may find that it lacks alot of features, and is only available on Windows.
 
+## ✨ Recommend me something
+
+Want to recommend me something to watch/read? Go ahead and start a [discussion]() and I'll be sure to check it out!
