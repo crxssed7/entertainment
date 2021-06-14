@@ -48,4 +48,4 @@ Below is a list of TV Shows that I recommend. Use CTRL+F to get around. All show
 |[Star Wars Rebels](https://trakt.tv/shows/star-wars-rebels)|Disney XD|Animation, Action, Adventure|
 |[Star Wars: The Bad Batch](https://trakt.tv/shows/the-bad-batch)|Disney+|Animation, Fantasy, Science Fiction, Action, Adventure|
 |[Invincible](https://trakt.tv/shows/invincible-2021)|Amazon Prime|Superhero, Animation, Action, Adventure, Drama, Fantasy, Science Fiction|
-|[LOKI](https://trakt.tv/shows/loki-2021)|Disney+||
+|[Loki](https://trakt.tv/shows/loki-2021)|Disney+|Fantasy, Science Fiction, Action, Adventure|
