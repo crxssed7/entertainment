@@ -50,4 +50,4 @@ Below is a list of TV Shows that I recommend. Use CTRL+F to get around. All show
 |[Invincible](https://trakt.tv/shows/invincible-2021)|Amazon Prime|Superhero, Animation, Action, Adventure, Drama, Fantasy, Science Fiction|
 |[Loki](https://trakt.tv/shows/loki-2021)|Disney+|Fantasy, Science Fiction, Action, Adventure|
 
-[<- Back home](https://github.com/crxssed7/entertainment/blob/main/README.md)
+[<- Back home](../../../)
