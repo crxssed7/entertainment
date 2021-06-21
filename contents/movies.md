@@ -36,3 +36,5 @@ Below is a list of movies that I recommend. Use CTRL+F to get around. All movies
 |[Soul](https://trakt.tv/movies/soul-2020)|Adventure, Animation, Comedy, Family|
 |[The Mitchells vs. the Machines](https://trakt.tv/movies/the-mitchells-vs-the-machines-2021)|Animation, Adventure, Comedy, Family, Science Fiction|
 |[Raya and the Last Dragon](https://trakt.tv/movies/raya-and-the-last-dragon-2021)|Animation, Adventure, Fantasy, Family, Action|
+
+[<- Back home](https://github.com/crxssed7/entertainment/blob/main/README.md)
