@@ -25,4 +25,4 @@ Below is a list of comics that I recommend. Use CTRL+F to get around. All comics
 |[Venom: First Host](https://comicvine.gamespot.com/venom-first-host/4050-113094/)|Marvel|
 |[Darth Vader (2015)](https://comicvine.gamespot.com/darth-vader/4050-79990/)|Marvel|
 
-[<- Back home](../../../)
+[<- Back home](https://crxssed7.github.io/entertainment/)
