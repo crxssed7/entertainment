@@ -50,5 +50,8 @@ Below is a list of TV Shows that I recommend. Use CTRL+F to get around. All show
 |[Invincible](https://trakt.tv/shows/invincible-2021)|Amazon Prime|Superhero, Animation, Action, Adventure, Drama, Fantasy, Science Fiction|
 |[Loki](https://trakt.tv/shows/loki-2021)|Disney+|Fantasy, Science Fiction, Action, Adventure|
 |[PBS Eons](https://trakt.tv/shows/eons)|YouTube|Documentary|
+|[Castlevania](https://trakt.tv/shows/castlevania)|Netflix|Animation, Fantasy, Science Fiction|
+|[One-Punch Man](https://trakt.tv/shows/one-punch-man)|TV Tokyo|Comedy, Superhero, Anime, Action, Adventure|
+|[Demon Slayer: Kimetsu no Yaiba](https://trakt.tv/shows/demon-slayer-kimetsu-no-yaiba)|AbemaTV|Anime, Action, Fantasy, Adventure, Science Fiction|
 
 [<- Back home](https://crxssed7.github.io/entertainment/)
