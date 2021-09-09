@@ -53,5 +53,6 @@ Below is a list of TV Shows that I recommend. Use CTRL+F to get around. All show
 |[Castlevania](https://trakt.tv/shows/castlevania)|Netflix|Animation, Fantasy, Science Fiction|
 |[One-Punch Man](https://trakt.tv/shows/one-punch-man)|TV Tokyo|Comedy, Superhero, Anime, Action, Adventure|
 |[Demon Slayer: Kimetsu no Yaiba](https://trakt.tv/shows/demon-slayer-kimetsu-no-yaiba)|AbemaTV|Anime, Action, Fantasy, Adventure, Science Fiction|
+|[Star vs. the Forces of Evil](https://trakt.tv/shows/star-vs-the-forces-of-evil)|Disney XD|Animation, Fantasy, Science Fiction, Action, Adventure, Comedy|
 
 [<- Back home](https://crxssed7.github.io/entertainment/)
