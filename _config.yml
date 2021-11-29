@@ -2,4 +2,5 @@
 remote_theme: godalming123/minimal
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+title: Entertainment
 description: A list of all the TV Shows, Movies, Comics and Books that I enjoy.
