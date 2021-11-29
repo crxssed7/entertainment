@@ -3,9 +3,9 @@ TV Shows
 
 Below is a list of TV Shows that I recommend. Use CTRL+F to get around. All shows will have their genres and network listed too.
 
-|Name|Network|Genres||
-|---|---|---|---|
-|<img src="https://artworks.thetvdb.com/banners/v4/series/188401/clearlogo/611b84b80fae1.png" width=100px height=auto />|[Regular Show](https://trakt.tv/shows/regular-show)|Cartoon Network|Action, Adventure, Animation, Comedy||
+|Name|Network|Genres|
+|---|---|---|
+|[Regular Show](https://trakt.tv/shows/regular-show)|Cartoon Network|Action, Adventure, Animation, Comedy||
 |[Arcane: League of Legends](https://trakt.tv/shows/arcane)|Netflix|Adventure, Animation, Fantasy, Action, Science Fiction, Drama|
 |[Gravity Falls](https://trakt.tv/shows/gravity-falls)|Disney XD|Action, Adventure, Animation, Comedy, Family, Fantasy|
 |[Avatar: The Last Airbender](https://trakt.tv/shows/avatar-the-last-airbender)|Nickelodeon|Action, Adventure, Animation, Children, Drama, Fantasy, Martial Arts|
