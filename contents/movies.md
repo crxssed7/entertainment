@@ -8,6 +8,7 @@ Below is a list of movies that I recommend. Use CTRL+F to get around. All movies
 |[Ready Player One](https://trakt.tv/movies/ready-player-one-2018)|Science Fiction, Adventure, Action|
 |[The Imitation Game](https://trakt.tv/movies/the-imitation-game-2014)|History, Drama, Thriller, War|
 |[Venom](https://trakt.tv/movies/venom-2018)|Science Fiction, Action|
+|[Venom: Let there be Carnage](https://trakt.tv/movies/venom-let-there-be-carnage-2021)|Science Fiction, Action|
 |[Star Wars Collection (minus sequels)](https://trakt.tv/users/crxssed/lists/star-wars?sort=rank,asc)|Adventure, Action, Science Fiction|
 |[MCU Collection](https://trakt.tv/users/crxssed/lists/mcu?sort=released,desc)|Adventure, Action, Science Fiction|
 |[The Transformers: The Movie](https://trakt.tv/movies/the-transformers-the-movie-1986)|Animation, Science Fiction, Action, Adventure, Family|
