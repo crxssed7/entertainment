@@ -6,6 +6,7 @@ Below is a list of TV Shows that I recommend. Use CTRL+F to get around. All show
 |Name|Network|Genres|
 |---|---|---|
 |[Regular Show](https://trakt.tv/shows/regular-show)|Cartoon Network|Action, Adventure, Animation, Comedy|
+|[Arcane: League of Legends](https://trakt.tv/shows/arcane)|Netflix|Adventure, Animation, Fantasy, Action, Science Fiction, Drama|
 |[Gravity Falls](https://trakt.tv/shows/gravity-falls)|Disney XD|Action, Adventure, Animation, Comedy, Family, Fantasy|
 |[Avatar: The Last Airbender](https://trakt.tv/shows/avatar-the-last-airbender)|Nickelodeon|Action, Adventure, Animation, Children, Drama, Fantasy, Martial Arts|
 |[The Legend of Korra](https://trakt.tv/shows/the-legend-of-korra)|Nickelodeon|Action, Animation, Children, Drama, Family, Fantasy, Martial Arts, Suspense|
