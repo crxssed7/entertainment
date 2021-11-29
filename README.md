@@ -18,7 +18,8 @@ Below is software that you can find to enhance your entertainment experience. It
 - [TelePeeps](https://kitric.github.io/projects/telepeeps/): Best tracker of course (not because it was developed by me 😂). In all seriousness though, this was just a hobby project for me and lacks a few features (such as cross device sync and no offline usage) so it probably isn't the best solution for you - however it does have a really nice UI with randomization features so if you're exclusively a Windows user, you can go ahead and try it 😄
 - [TV Time](https://www.tvtime.com): Good tracker, mainly available on android, and has a webapp. Plus has a social media aspect to it with reviews and comments on each movie/show from different users.
 - [Trakt.tv](https://trakt.tv): 👑 Very good tracker, best used when integrated with your media players such as Plex (premium) and Jellyfin (free). Trakt also has alot of third party (free and paid) clients, personally I use [Showly](https://github.com/michaldrabik/showly-2.0) which is open source right here on GitHub. Check out my Trakt profile [here](https://trakt.tv/users/crxssed)
-- [MyAnimeList](https://myanimelist.net): From what I heard, a very good Anime tracker. I don't watch anime, so I can't judge 🤷‍♂️
+- [MyAnimeList](https://myanimelist.net): From what I heard, a very good Anime tracker.
+- [AniList](https://anilist.co): 👑 My choice when it comes to anime trackers. Works really well with [Tachiyomi](https://tachiyomi.org) and has a wide variety of clients that you can use.
 
 ###### Comics
 - [Comic Tracker](https://github.com/crxssed7/comics-cli): A CLI application I developed that allows you to add comics to your collection, and mark certain issues as read.
