@@ -8,7 +8,7 @@ This repo includes entertainment media that I enjoy watching/reading:
 - [📺 TV shows](contents/tv-shows.md)
 - [🎥 Movies](contents/movies.md)
 - [📚 Books](contents/books.md)
-- [💥 Comics](contents/comics.md)
+- [💥 Comics % Manga](contents/comics.md)
 
 Below is software that you can find to enhance your entertainment experience. Items marked as 👑 are recommended by me.
 
