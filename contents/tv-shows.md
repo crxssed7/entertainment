@@ -7,6 +7,7 @@ Below is a list of TV Shows (including Anime) that I recommend. Use CTRL+F to ge
 |---|---|---|
 |[Regular Show](https://trakt.tv/shows/regular-show)|Cartoon Network|Action, Adventure, Animation, Comedy||
 |[Arcane: League of Legends](https://trakt.tv/shows/arcane)|Netflix|Adventure, Animation, Fantasy, Action, Science Fiction, Drama|
+|[MCU Series](https://trakt.tv/users/crxssed/lists/mcu?sort=released,desc)|Disney+|Variety|
 |[Gravity Falls](https://trakt.tv/shows/gravity-falls)|Disney XD|Action, Adventure, Animation, Comedy, Family, Fantasy|
 |[Avatar: The Last Airbender](https://trakt.tv/shows/avatar-the-last-airbender)|Nickelodeon|Action, Adventure, Animation, Children, Drama, Fantasy, Martial Arts|
 |[The Legend of Korra](https://trakt.tv/shows/the-legend-of-korra)|Nickelodeon|Action, Animation, Children, Drama, Family, Fantasy, Martial Arts, Suspense|
@@ -23,12 +24,8 @@ Below is a list of TV Shows (including Anime) that I recommend. Use CTRL+F to ge
 |[Close Enough](https://trakt.tv/shows/close-enough)|HBO MAX|Animation, Comedy|
 |[Transformers: War for Cybertron](https://trakt.tv/shows/transformers-war-for-cybertron-trilogy)|Netflix|Action, Animation, Children, Science Fiction|
 |[Infinity Train](https://trakt.tv/shows/infinity-train)|HBO MAX|Adventure, Animation, Fantasy, Science Fiction|
-|[The Owl House](https://trakt.tv/shows/the-owl-house-2020)|Disney Channel|Adventure, Animation, Children, Family, Fantasy|
-|[Satina](https://trakt.tv/shows/satina)|YouTube|Animation, Comedy|
 |[Adventure Time: Distant Lands](https://trakt.tv/shows/adventure-time-distant-lands-2020-170077)|HBO MAX|Family, Animation, Comedy, Science Fiction, Fantasy|
 |[Amphibia](https://trakt.tv/shows/amphibia)|Disney Channel|Adventure, Animation, Children, Comedy, Family, Fantasy|
-|[Bob's Burgers](https://trakt.tv/shows/bob-s-burgers)|FOX|Animation, Comedy|
-|[WandaVision](https://trakt.tv/shows/wandavision)|Disney+|Action, Adventure, Comedy, Drama, Fantasy, Science Fiction|
 |[The Mandalorian](https://trakt.tv/shows/the-mandalorian)|Disney+|Action, Adventure, Science Fiction|
 |[Stranger Things](https://trakt.tv/shows/stranger-things)|Netflix|Adventure, Drama, Fantasy, Horror, Suspense|
 |[Star Wars: The Clone Wars](https://trakt.tv/shows/star-wars-the-clone-wars)|Cartoon Network|Action, Adventure, Animation, Fantasy, Science Fiction|
@@ -44,8 +41,6 @@ Below is a list of TV Shows (including Anime) that I recommend. Use CTRL+F to ge
 |[High Score (2020)](https://trakt.tv/shows/high-score-2020)|Netflix|Documentary, Mini-Series|
 |[The Goldbergs](https://trakt.tv/shows/the-goldbergs-2013)|ABC|Comedy|
 |[Hot Ones](https://trakt.tv/shows/hot-ones)|YouTube|Food, Game Show, Talk Show|
-|[The Falcon and the Winter Soldier](https://trakt.tv/shows/the-falcon-and-the-winter-soldier)|Disney+|Action, Adventure, Drama, Mini-Series|
-|[Spider-Man: The Animated Series](https://trakt.tv/shows/spider-man-the-animated-series)|FOX|Animation, Action, Adventure|
 |[Star Wars Rebels](https://trakt.tv/shows/star-wars-rebels)|Disney XD|Animation, Action, Adventure|
 |[Star Wars: The Bad Batch](https://trakt.tv/shows/the-bad-batch)|Disney+|Animation, Fantasy, Science Fiction, Action, Adventure|
 |[Invincible](https://trakt.tv/shows/invincible-2021)|Amazon Prime|Superhero, Animation, Action, Adventure, Drama, Fantasy, Science Fiction|
@@ -55,7 +50,6 @@ Below is a list of TV Shows (including Anime) that I recommend. Use CTRL+F to ge
 |[One-Punch Man](https://trakt.tv/shows/one-punch-man)|TV Tokyo|Comedy, Superhero, Anime, Action, Adventure|
 |[Demon Slayer: Kimetsu no Yaiba](https://trakt.tv/shows/demon-slayer-kimetsu-no-yaiba)|AbemaTV|Anime, Action, Fantasy, Adventure, Science Fiction|
 |[Star vs. the Forces of Evil](https://trakt.tv/shows/star-vs-the-forces-of-evil)|Disney XD|Animation, Fantasy, Science Fiction, Action, Adventure, Comedy|
-|[What If...?](https://trakt.tv/shows/what-if-2021)|Disney+|Animation, Action, Adventure, Fantasy, Science Fiction, Superhero|
 |[Attack on Titan](https://trakt.tv/shows/attack-on-titan)|NHK G|Fantasy, Science Fiction, Anime, Action, Adventure|
 
 [<- Back home](..)
