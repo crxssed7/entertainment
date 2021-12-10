@@ -58,4 +58,4 @@ Below is a list of TV Shows (including Anime) that I recommend. Use CTRL+F to ge
 |[What If...?](https://trakt.tv/shows/what-if-2021)|Disney+|Animation, Action, Adventure, Fantasy, Science Fiction, Superhero|
 |[Attack on Titan](https://trakt.tv/shows/attack-on-titan)|NHK G|Fantasy, Science Fiction, Anime, Action, Adventure|
 
-[<- Back home](https://crxssed7.github.io/entertainment/)
+[<- Back home](..)
