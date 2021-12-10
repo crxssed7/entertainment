@@ -1,7 +1,9 @@
-Comics
+Comics & Manga
 ===================
 
-Below is a list of comics that I recommend. Use CTRL+F to get around. All comics will have their publishers listed too. <br>
+Below is a list of comics that I recommend. Use CTRL+F to get around. All comics will have their publishers listed too. Manga section includes material like Manhua too <br>
+
+## Comics
 
 |Name|Publisher|
 |---|---|
@@ -24,5 +26,12 @@ Below is a list of comics that I recommend. Use CTRL+F to get around. All comics
 |[Strange Tales (#110-#141 Doctor Strange Origins)](https://comicvine.gamespot.com/strange-tales/4050-18066/)|Marvel|
 |[Venom: First Host](https://comicvine.gamespot.com/venom-first-host/4050-113094/)|Marvel|
 |[Darth Vader (2015)](https://comicvine.gamespot.com/darth-vader/4050-79990/)|Marvel|
+
+## Manga
+
+|Name|Publisher|
+|---|---|
+|[One Punch Man](https://anilist.co/manga/74347/One-PunchMan/)|Jump Comics|
+|[Solo Leveling](https://anilist.co/manga/105398/Na-Honjaman-Level-Up/)|D&C Webtoon|
 
 [<- Back home](..)
