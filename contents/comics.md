@@ -31,5 +31,3 @@ Below is a list of comics that I recommend. Use CTRL+F to get around. All comics
 |---|---|
 |[One Punch Man](https://anilist.co/manga/74347/One-PunchMan/)|Jump Comics|
 |[Solo Leveling](https://anilist.co/manga/105398/Na-Honjaman-Level-Up/)|D&C Webtoon|
-
-[<- Back home](..)
