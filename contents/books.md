@@ -25,5 +25,3 @@ Below is a list of books that I recommend. Use CTRL+F to get around. All books w
 |Divergent|Divergent (1)|Veronica Roth|Katherine Tegen Books|Young Adult|
 |Insurgent|Divergent (2)|Veronica Roth|HarperCollins Children's Books|Young Adult|
 |Allegiant|Divergent (3)|Veronica Roth|HarperCollins Children's Books|Young Adult|
-
-[<- Back home](..)
