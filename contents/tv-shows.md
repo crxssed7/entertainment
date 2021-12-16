@@ -17,7 +17,6 @@ Below is a list of TV Shows (including Anime) that I recommend. Use CTRL+F to ge
 |[Sonic X](https://trakt.tv/shows/sonic-x)|TV Tokyo|Action, Adventure, Animation|
 |[The Transformers](https://trakt.tv/shows/the-transformers)|Syndicated|Action, Adventure, Animation, Children, Science Fiction|
 |[Kipo and the Age of Wonderbeasts](https://trakt.tv/shows/kipo-and-the-age-of-wonderbeasts)|Netflix|Adventure, Animation, Children|
-|[Solar Opposites](https://trakt.tv/shows/solar-opposites)|Hulu|Animation, Comedy, Science Fiction|
 |[Disenchantment](https://trakt.tv/shows/disenchantment)|Netflix|Animation, Comedy, Fantasy|
 |[Rick and Morty](https://trakt.tv/shows/rick-and-morty)|Adult Swim|Adventure, Animation, Comedy, Science Fiction|
 |[Close Enough](https://trakt.tv/shows/close-enough)|HBO MAX|Animation, Comedy|
