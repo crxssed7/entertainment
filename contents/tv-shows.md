@@ -25,7 +25,6 @@ Below is a list of TV Shows (including Anime) that I recommend. Use CTRL+F to ge
 |[Transformers: War for Cybertron](https://trakt.tv/shows/transformers-war-for-cybertron-trilogy)|Netflix|Action, Animation, Children, Science Fiction|
 |[Infinity Train](https://trakt.tv/shows/infinity-train)|HBO MAX|Adventure, Animation, Fantasy, Science Fiction|
 |[Adventure Time: Distant Lands](https://trakt.tv/shows/adventure-time-distant-lands-2020-170077)|HBO MAX|Family, Animation, Comedy, Science Fiction, Fantasy|
-|[Amphibia](https://trakt.tv/shows/amphibia)|Disney Channel|Adventure, Animation, Children, Comedy, Family, Fantasy|
 |[The Mandalorian](https://trakt.tv/shows/the-mandalorian)|Disney+|Action, Adventure, Science Fiction|
 |[Stranger Things](https://trakt.tv/shows/stranger-things)|Netflix|Adventure, Drama, Fantasy, Horror, Suspense|
 |[Star Wars: The Clone Wars](https://trakt.tv/shows/star-wars-the-clone-wars)|Cartoon Network|Action, Adventure, Animation, Fantasy, Science Fiction|
