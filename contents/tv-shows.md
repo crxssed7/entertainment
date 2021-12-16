@@ -33,7 +33,6 @@ Below is a list of TV Shows (including Anime) that I recommend. Use CTRL+F to ge
 |[Brooklyn Nine-Nine](https://trakt.tv/shows/brooklyn-nine-nine)|NBC|Action, Comedy, Crime|
 |[The Grand Tour](https://trakt.tv/shows/the-grand-tour)|Amazon Prime|Comedy, Talk Show|
 |[Plebs](https://trakt.tv/shows/plebs)|ITV2|Comedy|
-|[Man Like Mobeen](https://trakt.tv/shows/man-like-mobeen)|BBC Three|Comedy|
 |[The Boys](https://trakt.tv/shows/the-boys-2019)|Amazon Prime|Action, Comedy, Crime|
 |[High Score (2020)](https://trakt.tv/shows/high-score-2020)|Netflix|Documentary, Mini-Series|
 |[The Goldbergs](https://trakt.tv/shows/the-goldbergs-2013)|ABC|Comedy|
