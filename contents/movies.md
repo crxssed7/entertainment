@@ -11,8 +11,6 @@ Below is a list of movies that I recommend. Use CTRL+F to get around. All movies
 |[Venom: Let there be Carnage](https://trakt.tv/movies/venom-let-there-be-carnage-2021)|Science Fiction, Action|
 |[Star Wars Collection (minus sequels)](https://trakt.tv/users/crxssed/lists/star-wars?sort=rank,asc)|Adventure, Action, Science Fiction|
 |[MCU Collection](https://trakt.tv/users/crxssed/lists/mcu?sort=released,desc)|Adventure, Action, Science Fiction|
-|[The Transformers: The Movie](https://trakt.tv/movies/the-transformers-the-movie-1986)|Animation, Science Fiction, Action, Adventure, Family|
-|[Regular Show: The Movie](https://trakt.tv/movies/regular-show-the-movie-2015)|Animation, Comedy, Science Fiction, TV Movie|
 |[Wreck-it Ralph](https://trakt.tv/movies/wreck-it-ralph-2012)|Family, Animation, Comedy, Adventure|
 |[Ralph Breaks the Internet](https://trakt.tv/movies/ralph-breaks-the-internet-2018)|Family, Animation, Comedy, Adventure|
 |[Joker](https://trakt.tv/movies/joker-2019)|Crime, Thriller, Drama|
@@ -27,18 +25,12 @@ Below is a list of movies that I recommend. Use CTRL+F to get around. All movies
 |[Indiana Jones Collection](https://trakt.tv/users/crxssed/lists/indiana-jones?sort=released,desc)|Adventure, Action|
 |[The Inbetweeners Movie](https://trakt.tv/movies/the-inbetweeners-movie-2011)|Comedy|
 |[The Inbetweeners 2](https://trakt.tv/movies/the-inbetweeners-2-2014)|Comedy|
-|[Wonder](https://trakt.tv/movies/wonder-2017)|Drama, Family|
-|[Onward](https://trakt.tv/movies/onward-2020)|Animation, Fantasy|
 |[Now You See Me](https://trakt.tv/movies/now-you-see-me-2013)|Crime, Thriller|
 |[Now You See Me 2](https://trakt.tv/movies/now-you-see-me-2-2016)|Crime, Thriller|
-|[The Iron Giant](https://trakt.tv/movies/the-iron-giant-1999)|Adventure, Animation, Family, Science Fiction|
 |[How to Train Your Dragon Collection](https://trakt.tv/users/crxssed/lists/how-to-train-your-dragon?sort=released,desc)|Adventure, Animation, Family|
 |[Spirited Away](https://trakt.tv/movies/spirited-away-2001)|Adventure, Anime, Family|
-|[Soul](https://trakt.tv/movies/soul-2020)|Adventure, Animation, Comedy, Family|
 |[The Mitchells vs. the Machines](https://trakt.tv/movies/the-mitchells-vs-the-machines-2021)|Animation, Adventure, Comedy, Family, Science Fiction|
 |[Raya and the Last Dragon](https://trakt.tv/movies/raya-and-the-last-dragon-2021)|Animation, Adventure, Fantasy, Family, Action|
 |[Back to the Future](https://trakt.tv/movies/back-to-the-future-1985)|Adventure, Comedy, Science Fiction|
 |[Back to the Future II](https://trakt.tv/movies/back-to-the-future-part-ii-1989)|Adventure, Comedy, Science Fiction|
 |[Back to the Future III](https://trakt.tv/movies/back-to-the-future-part-iii-1990)|Adventure, Comedy, Science Fiction|
-
-[<- Back home](..)
