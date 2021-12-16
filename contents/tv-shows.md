@@ -14,7 +14,6 @@ Below is a list of TV Shows (including Anime) that I recommend. Use CTRL+F to ge
 |[Adventure Time](https://trakt.tv/shows/adventure-time)|Cartoon Network|Adventure, Animation, Children, Comedy, Family, Fantasy|
 |[Over the Garden Wall](https://trakt.tv/shows/over-the-garden-wall)|Cartoon Network|Animation, Fantasy|
 |[Futurama](https://trakt.tv/shows/futurama)|FOX|Animation, Comedy, Science Fiction|
-|[Sonic Underground](https://trakt.tv/shows/sonic-underground)|Syfy|Animation, Children|
 |[Sonic X](https://trakt.tv/shows/sonic-x)|TV Tokyo|Action, Adventure, Animation|
 |[The Transformers](https://trakt.tv/shows/the-transformers)|Syndicated|Action, Adventure, Animation, Children, Science Fiction|
 |[Kipo and the Age of Wonderbeasts](https://trakt.tv/shows/kipo-and-the-age-of-wonderbeasts)|Netflix|Adventure, Animation, Children|
@@ -35,16 +34,13 @@ Below is a list of TV Shows (including Anime) that I recommend. Use CTRL+F to ge
 |[The Grand Tour](https://trakt.tv/shows/the-grand-tour)|Amazon Prime|Comedy, Talk Show|
 |[Plebs](https://trakt.tv/shows/plebs)|ITV2|Comedy|
 |[Man Like Mobeen](https://trakt.tv/shows/man-like-mobeen)|BBC Three|Comedy|
-|[Mr. Bean](https://trakt.tv/shows/mr-bean-1990)|ITV|Comedy|
 |[The Boys](https://trakt.tv/shows/the-boys-2019)|Amazon Prime|Action, Comedy, Crime|
 |[High Score (2020)](https://trakt.tv/shows/high-score-2020)|Netflix|Documentary, Mini-Series|
 |[The Goldbergs](https://trakt.tv/shows/the-goldbergs-2013)|ABC|Comedy|
-|[Hot Ones](https://trakt.tv/shows/hot-ones)|YouTube|Food, Game Show, Talk Show|
 |[Star Wars Rebels](https://trakt.tv/shows/star-wars-rebels)|Disney XD|Animation, Action, Adventure|
 |[Star Wars: The Bad Batch](https://trakt.tv/shows/the-bad-batch)|Disney+|Animation, Fantasy, Science Fiction, Action, Adventure|
 |[Invincible](https://trakt.tv/shows/invincible-2021)|Amazon Prime|Superhero, Animation, Action, Adventure, Drama, Fantasy, Science Fiction|
 |[Loki](https://trakt.tv/shows/loki-2021)|Disney+|Fantasy, Science Fiction, Action, Adventure|
-|[PBS Eons](https://trakt.tv/shows/eons)|YouTube|Documentary|
 |[Castlevania](https://trakt.tv/shows/castlevania)|Netflix|Animation, Fantasy, Science Fiction|
 |[One-Punch Man](https://trakt.tv/shows/one-punch-man)|TV Tokyo|Comedy, Superhero, Anime, Action, Adventure|
 |[Demon Slayer: Kimetsu no Yaiba](https://trakt.tv/shows/demon-slayer-kimetsu-no-yaiba)|AbemaTV|Anime, Action, Fantasy, Adventure, Science Fiction|
