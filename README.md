@@ -36,7 +36,7 @@ Below is software that you can find to enhance your entertainment experience. It
 
 - [Jellyfin](https://jellyfin.org): 👑 Server software that allows you to have all of your downloaded media (inc tv shows, movies, books, comics) available in one place, anywhere you go.
 - [Plex](https://www.plex.tv/en-gb/): Very similar to Jellyfin, however its all managed by central servers owned by Plex Inc, which I'm not a fan of. Also Jellyfin has more customizability, but Plex is more stable. 
-- [Ubooquity](https://vaemendis.net/ubooquity/): 👑 Server software similar to that of Plex and Jellyfin, but just for books and comics. I prefer to split my media in three, Jellyfin for shows and movies, Ubooquity for books, and Komga for comics.
+- [Ubooquity](https://vaemendis.net/ubooquity/): 👑 Server software similar to that of Plex and Jellyfin, but just for books and comics.
 - [Emby](https://emby.media/): Similar to Plex and Jellyfin, however I've never used it personally.
 - [Komga](https://komga.org/): 👑 Like Ubooquity, but just for comics. It can read epub files, but cannot read the contents, just the images - one way around it is just to convert all your epub files to pdf.
 
