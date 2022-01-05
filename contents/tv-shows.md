@@ -44,3 +44,5 @@ Below is a list of TV Shows (including Anime) that I recommend. Use CTRL+F to ge
 |[Demon Slayer: Kimetsu no Yaiba](https://trakt.tv/shows/demon-slayer-kimetsu-no-yaiba)|AbemaTV|Anime, Action, Fantasy, Adventure, Science Fiction|
 |[Star vs. the Forces of Evil](https://trakt.tv/shows/star-vs-the-forces-of-evil)|Disney XD|Animation, Fantasy, Science Fiction, Action, Adventure, Comedy|
 |[Attack on Titan](https://trakt.tv/shows/attack-on-titan)|NHK G|Fantasy, Science Fiction, Anime, Action, Adventure|
+|[My Hero Academia](https://trakt.tv/shows/my-hero-academia)|TBS|Action, Adventure, Superhero, Anime|
+|[ID: INVADED](https://trakt.tv/shows/id-invaded)|Tokyo MX|Anime, Science Fiction, Fantasy, Action, Adventure, Mystery, Drama|
