@@ -46,3 +46,4 @@ Below is a list of TV Shows (including Anime) that I recommend. Use CTRL+F to ge
 |[Attack on Titan](https://trakt.tv/shows/attack-on-titan)|NHK G|Fantasy, Science Fiction, Anime, Action, Adventure|
 |[My Hero Academia](https://trakt.tv/shows/my-hero-academia)|TBS|Action, Adventure, Superhero, Anime|
 |[ID: INVADED](https://trakt.tv/shows/id-invaded)|Tokyo MX|Anime, Science Fiction, Fantasy, Action, Adventure, Mystery, Drama|
+|[The Book of Boba Fett](https://trakt.tv/shows/the-book-of-boba-fett)|Disney+|Action, Adventure, Science Fiction|
