@@ -6,6 +6,7 @@ Below is a list of TV Shows (including Anime) that I recommend. Use CTRL+F to ge
 |Name|Network|Genres|
 |---|---|---|
 |[Regular Show](https://trakt.tv/shows/regular-show)|Cartoon Network|Action, Adventure, Animation, Comedy||
+|[Komi Can't Communicate](https://trakt.tv/shows/komi-can-t-communicate)|TV Tokyo|Anime, Romance, Comedy, Drama|
 |[Arcane: League of Legends](https://trakt.tv/shows/arcane)|Netflix|Adventure, Animation, Fantasy, Action, Science Fiction, Drama|
 |[MCU Series](https://trakt.tv/users/crxssed/lists/mcu?sort=released,desc)|Disney+|Variety|
 |[Gravity Falls](https://trakt.tv/shows/gravity-falls)|Disney XD|Action, Adventure, Animation, Comedy, Family, Fantasy|
@@ -47,3 +48,5 @@ Below is a list of TV Shows (including Anime) that I recommend. Use CTRL+F to ge
 |[My Hero Academia](https://trakt.tv/shows/my-hero-academia)|TBS|Action, Adventure, Superhero, Anime|
 |[ID: INVADED](https://trakt.tv/shows/id-invaded)|Tokyo MX|Anime, Science Fiction, Fantasy, Action, Adventure, Mystery, Drama|
 |[The Book of Boba Fett](https://trakt.tv/shows/the-book-of-boba-fett)|Disney+|Action, Adventure, Science Fiction|
+|[The Way of the Househusband](https://trakt.tv/shows/the-way-of-the-househusband-2021)|Netflix|Anime, Comedy, Romance|
+|[Cowboy Bebop](https://trakt.tv/shows/cowboy-bebop)|TV Tokyo|Action, Adventure, Science Fiction, Anime, Fantasy|
