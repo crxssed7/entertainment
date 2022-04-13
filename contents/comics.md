@@ -27,7 +27,7 @@ Below is a list of comics that I recommend. Use CTRL+F to get around. All comics
 
 ## Manga
 
-### Check out [Tankobon Manga](), a project I'm developing to document what chapters are in which volume of a manga.
+##### Check out [Tankobon Manga](), a project I'm developing to document what chapters are in which volume of a manga.
 
 |Name|Translated Name|Publisher|
 |---|---|---|
