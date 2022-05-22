@@ -50,3 +50,8 @@ Below is a list of TV Shows (including Anime) that I recommend. Use CTRL+F to ge
 |[The Book of Boba Fett](https://trakt.tv/shows/the-book-of-boba-fett)|Disney+|Action, Adventure, Science Fiction|
 |[The Way of the Househusband](https://trakt.tv/shows/the-way-of-the-househusband-2021)|Netflix|Anime, Comedy, Romance|
 |[Cowboy Bebop](https://trakt.tv/shows/cowboy-bebop)|TV Tokyo|Action, Adventure, Science Fiction, Anime, Fantasy|
+|[Moon Knight](https://trakt.tv/shows/moon-knight)|Disney+|Fantasy, Science Fiction, Action, Adventure, Superhero, Mystery|
+|[Frozen Planet](https://trakt.tv/shows/frozen-planet)|BBC One|Documentary|
+|[A Perfect Planet](https://trakt.tv/shows/a-perfect-planet)|BBC One|Documentary|
+|[The Green Planet](https://trakt.tv/shows/the-green-planet)|BBC One|Documentary|
+|[SPY x FAMILY](https://trakt.tv/shows/spy-x-family)|Hokkaido TV|Anime, Comedy, Action, Adventure, Crime|
