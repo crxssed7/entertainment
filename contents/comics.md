@@ -3,8 +3,6 @@ Comics
 
 Below is a list of comics that I recommend. Use CTRL+F to get around. All comics will have their publishers listed too.
 
-## Comics
-
 |Name|Publisher|
 |---|---|
 |[Venom (2018 - 2021)](https://comicvine.gamespot.com/venom/4050-110770/)|Marvel|
