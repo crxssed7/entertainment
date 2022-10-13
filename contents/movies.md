@@ -31,9 +31,7 @@ Below is a list of movies that I recommend. Use CTRL+F to get around. All movies
 |[Spirited Away](https://trakt.tv/movies/spirited-away-2001)|Adventure, Anime, Family|
 |[The Mitchells vs. the Machines](https://trakt.tv/movies/the-mitchells-vs-the-machines-2021)|Animation, Adventure, Comedy, Family, Science Fiction|
 |[Raya and the Last Dragon](https://trakt.tv/movies/raya-and-the-last-dragon-2021)|Animation, Adventure, Fantasy, Family, Action|
-|[Back to the Future](https://trakt.tv/movies/back-to-the-future-1985)|Adventure, Comedy, Science Fiction|
-|[Back to the Future II](https://trakt.tv/movies/back-to-the-future-part-ii-1989)|Adventure, Comedy, Science Fiction|
-|[Back to the Future III](https://trakt.tv/movies/back-to-the-future-part-iii-1990)|Adventure, Comedy, Science Fiction|
+|[Back to the Future Collection](https://trakt.tv/movies/back-to-the-future-1985)|Adventure, Comedy, Science Fiction|
 |[tick, tick... BOOM!](https://trakt.tv/movies/tick-tick-boom-2021)|Drama, Musical|
 |[Monty Python and the Holy Grail](https://trakt.tv/movies/monty-python-and-the-holy-grail-1975)|Adventure, Comedy, Fantasy|
 |[Ferris Bueller's Day Off](https://trakt.tv/movies/ferris-bueller-s-day-off-1986)|Comedy|
