@@ -9,6 +9,7 @@ Below is a list of TV Shows (including Anime) that I recommend. Use CTRL+F to ge
 |[Komi Can't Communicate](https://trakt.tv/shows/komi-can-t-communicate)|TV Tokyo|Anime, Romance, Comedy, Drama|
 |[Arcane: League of Legends](https://trakt.tv/shows/arcane)|Netflix|Adventure, Animation, Fantasy, Action, Science Fiction, Drama|
 |[MCU Series](https://trakt.tv/users/crxssed/lists/mcu?sort=released,desc)|Disney+|Variety|
+|[Star Wars](https://trakt.tv/users/crxssed/lists/star-wars?sort=released,desc)|Disney+|Variety|
 |[Gravity Falls](https://trakt.tv/shows/gravity-falls)|Disney XD|Action, Adventure, Animation, Comedy, Family, Fantasy|
 |[Avatar: The Last Airbender](https://trakt.tv/shows/avatar-the-last-airbender)|Nickelodeon|Action, Adventure, Animation, Children, Drama, Fantasy, Martial Arts|
 |[The Legend of Korra](https://trakt.tv/shows/the-legend-of-korra)|Nickelodeon|Action, Animation, Children, Drama, Family, Fantasy, Martial Arts, Suspense|
@@ -19,17 +20,13 @@ Below is a list of TV Shows (including Anime) that I recommend. Use CTRL+F to ge
 |[Kipo and the Age of Wonderbeasts](https://trakt.tv/shows/kipo-and-the-age-of-wonderbeasts)|Netflix|Adventure, Animation, Children|
 |[Disenchantment](https://trakt.tv/shows/disenchantment)|Netflix|Animation, Comedy, Fantasy|
 |[Rick and Morty](https://trakt.tv/shows/rick-and-morty)|Adult Swim|Adventure, Animation, Comedy, Science Fiction|
-|[The Mandalorian](https://trakt.tv/shows/the-mandalorian)|Disney+|Action, Adventure, Science Fiction|
 |[Stranger Things](https://trakt.tv/shows/stranger-things)|Netflix|Adventure, Drama, Fantasy, Horror, Suspense|
-|[Star Wars: The Clone Wars](https://trakt.tv/shows/star-wars-the-clone-wars)|Cartoon Network|Action, Adventure, Animation, Fantasy, Science Fiction|
 |[The Office (US)](https://trakt.tv/shows/the-office)|NBC|Comedy|
 |[The Inbetweeners](https://trakt.tv/shows/the-inbetweeners)|E4|Comedy|
 |[Friday Night Dinner](https://trakt.tv/shows/friday-night-dinner)|Channel 4|Comedy|
 |[Brooklyn Nine-Nine](https://trakt.tv/shows/brooklyn-nine-nine)|NBC|Action, Comedy, Crime|
 |[The Grand Tour](https://trakt.tv/shows/the-grand-tour)|Amazon Prime|Comedy, Talk Show|
 |[The Boys](https://trakt.tv/shows/the-boys-2019)|Amazon Prime|Action, Comedy, Crime|
-|[Star Wars Rebels](https://trakt.tv/shows/star-wars-rebels)|Disney XD|Animation, Action, Adventure|
-|[Star Wars: The Bad Batch](https://trakt.tv/shows/the-bad-batch)|Disney+|Animation, Fantasy, Science Fiction, Action, Adventure|
 |[Invincible](https://trakt.tv/shows/invincible-2021)|Amazon Prime|Superhero, Animation, Action, Adventure, Drama, Fantasy, Science Fiction|
 |[Loki](https://trakt.tv/shows/loki-2021)|Disney+|Fantasy, Science Fiction, Action, Adventure|
 |[Castlevania](https://trakt.tv/shows/castlevania)|Netflix|Animation, Fantasy, Science Fiction|
