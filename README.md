@@ -54,4 +54,3 @@ Below is software that you can find to enhance your entertainment experience. It
 
 Want to recommend me something to watch/read? Go ahead and start a [discussion](https://github.com/crxssed7/entertainment/discussions/new?category=recommendation) and I'll be sure to check it out!
 
-**Contributing**: I wont be accepting pull requests for this repo for a while (not until I clean up this readme) and wont ever be accepting changes for the `contents/` folder. This repo is for all media that I have watched and recommend, if you want to add something then just send a recommendation via [GitHub discussions](https://github.com/crxssed7/entertainment/discussions/new?category=recommendation).
