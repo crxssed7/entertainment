@@ -47,7 +47,7 @@ Below is software that you can find to enhance your entertainment experience. It
 - [Komga Webapp](https://komga.org/): Follows the exact same concept as the Ubooquity Webapp.
 - [Kuboo](https://play.google.com/store/apps/details?id=com.sethchhim.kuboo&hl=en_GB&gl=US): 👑 Reader for Ubooquity, available for android.
 - [Calibre](https://calibre-ebook.com/): Meant to be a very good comic reader. Apparently has functionality to be both a player and a server. Personally I wasn't very fond of it.
-- [Tachiyomi](https://tachiyomi.org): 👑 Quite possibly the best comic reader I have ever come across. The app itself is nothing but a container for all the extensions that you can install that allow you to read comics/manga from different sources. I use this for reading comics from my Komga server, and from online sources such as ReadComicOnline.to. There is a desktop version available called [Tachidesk](https://github.com/AriaMoradi/Tachidesk), however it is unofficial and a little bit buggy. There are other forks of the mobile app [here](https://tachiyomi.org/forks/), that have extra features. Both official and unofficial versions are open source, you can see the code here on GitHub.
+- [Tachiyomi](https://tachiyomi.org): 👑 Quite possibly the best comic reader I have ever come across. The app itself is nothing but a container for all the extensions that you can install that allow you to read comics/manga from different sources.
 - [Aniyomi](https://aniyomi.jmir.xyz): 👑 A fork of Tachiyomi with added functionality for anime as well.
 
 ## ✨ Recommend something
