@@ -6,3 +6,7 @@ title: Entertainment
 description: A list of all the TV Shows, Movies, Comics and Books that I enjoy.
 logo: /assets/img/logo.png
 color-scheme: dark
+sidebar:
+  - name: Website
+    icon: <i class="fa-solid fa-globe"></i>
+    link: https://crxssed.dev/
