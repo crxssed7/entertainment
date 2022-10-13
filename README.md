@@ -16,21 +16,18 @@ Below is software that you can find to enhance your entertainment experience. It
 ## 🖲 Trackers
 ###### TV shows and movies
 
-- [TelePeeps](https://kitric.github.io/projects/telepeeps/): Best tracker of course (not because it was developed by me 😂). In all seriousness though, this was just a hobby project for me and lacks a few features (such as cross device sync and no offline usage) so it probably isn't the best solution for you - however it does have a really nice UI with randomization features so if you're exclusively a Windows user, you can go ahead and try it 😄
 - [TV Time](https://www.tvtime.com): Good tracker, mainly available on android, and has a webapp. Plus has a social media aspect to it with reviews and comments on each movie/show from different users.
 - [Trakt.tv](https://trakt.tv): 👑 Very good tracker, best used when integrated with your media players such as Plex (premium) and Jellyfin (free). Trakt also has alot of third party (free and paid) clients, personally I use [Showly](https://github.com/michaldrabik/showly-2.0) which is open source right here on GitHub. Check out my Trakt profile [here](https://trakt.tv/users/crxssed)
-- [MyAnimeList](https://myanimelist.net): From what I heard, a very good Anime tracker.
+- [MyAnimeList](https://myanimelist.net): A very good Anime tracker.
 - [AniList](https://anilist.co): 👑 My choice when it comes to anime trackers. Works really well with [Tachiyomi](https://tachiyomi.org) and has a wide variety of clients that you can use.
 
-###### Comics
-- [Comic Tracker](https://github.com/crxssed7/comics-cli): A CLI application I developed that allows you to add comics to your collection, and mark certain issues as read. NOTE: This project is on hold, and will be converted to a TUI client application for [Kaboom](https://github.com/crxssed7/kaboom-api)
-- [League of Comic Geeks](https://leagueofcomicgeeks.com/): 👑 A comic tracker for both desktop (website) and mobile. The website is very nice and clean looking (pity it isn't a PWA), and the new app is really nice to use. Major downside is the fact that it doesn't have an API, so cannot be integrated with other applications.
+###### Books
+- [League of Comic Geeks](https://leagueofcomicgeeks.com/): A comic tracker for both desktop (website) and mobile. The website is very nice and clean looking (pity it isn't a PWA), and the new app is really nice to use. Major downside is the fact that it doesn't have an API, so cannot be integrated with other applications.
 - [MyAnimeList](https://myanimelist.net): Listed in [TV shows and movies](#tv-shows-and-movies), but I'm also going to list it here as it has the ability to track manga too.
 - [AniList](https://anilist.co): 👑 Similar to [MyAnimeList](https://myanimelist.net).
-
-###### Books
+- [Libib](https://www.libib.com): 👑 A great webapp to track your physical collections. Supports books (incl. manga and comics), movies, music and video games.
 - [Bookshelf](https://www.bookshelfapp.info): Exclusively for mobile unfortunately, however it has a really clean interface, very easy to use, and all book metadata is editable (author, cover, etc).
-- [GoodReads](https://www.goodreads.com): 👑 The most popular book tracker, I switched over from [Bookshelf](https://www.bookshelfapp.info).
+- [GoodReads](https://www.goodreads.com): The most popular book tracker.
 
 ## ▶ Media players and servers
 ###### Servers
