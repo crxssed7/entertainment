@@ -3,7 +3,7 @@ remote_theme: crxssed7/minimalist
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Entertainment
-description: A list of all the TV Shows, Movies, Comics and Books that I enjoy.<br><br><a href="https://crxssed.dev/"><i class="fa-solid fa-globe"></i> Website</a>
+description: A list of all the TV Shows, Movies, Comics and Books that I enjoy.<br><br><a href="https://crxssed.dev/">Website</a>
 logo: /assets/img/logo.png
 color-scheme: dark
 sidebar:
